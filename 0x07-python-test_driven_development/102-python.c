@@ -1,8 +1,3 @@
-/*
- * File: 102-python.c
- * Author: Mamello "Feni" Motaung
- */
-
 #include "Python.h"
 
 /**
